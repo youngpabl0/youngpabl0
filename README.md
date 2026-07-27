@@ -1,16 +1,13 @@
-## Hi there 👋
+## Daniil Romashov
 
-<!--
-**youngpabl0/youngpabl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Site Reliability / DevOps engineer with 8+ years keeping high-load systems
+available, fast, and safe — and, increasingly, adopting AI in production safely.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Focus:** reliability & observability at scale, incident response / on-call,
+  infrastructure-as-code, DevSecOps, and LLMOps.
+- 🧰 **Stack:** Kubernetes/OpenShift · Ansible/Terraform/Pulumi · Prometheus /
+  VictoriaMetrics / Grafana / Loki / Tempo / eBPF · GitLab CI · Go / Python.
+- 📦 **Open source:** [grpc-streams-checker](https://github.com/OWNER/grpc-streams-checker)
+  — synthetic monitoring for gRPC server-side streams (Apache-2.0).
+- ✍️ **Writing:** on-call design, observability at scale, safe LLM integration.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mwgtd)
